@@ -1,7 +1,5 @@
 ### Hi there 👋,  I'm Timothy !
 #### Design and Development
-![Design and Development](<iframe src="https://assets.pinterest.com/ext/embed.html?id=41095415342608019" height="847" width="345" frameborder="0" scrolling="no" ></iframe>)
-
 I'm Timothy from Sierra Leone, and I am a Software Engineer and Designer with a bit of a dabble in Digital Marketer (😄 Jack of all Trades huh). I really enjoy doing Full Stack Web and Mobile Development, AI, 3D, AR/VR etc. For the Web, I love Vue-js it's my Number One(1) frontend framework, also like Solid.js, Qwik, Astro and last and the least(lol joking) good old React.I am more of a frontend or design person as I do UI/UX, Graphic design, 3D design and learning Product Design too, I do Backend as well too.
 
 Skills: VUE JS / REACT / JS / HTML / CSS/ Python/ Django/ Laravel/ Node/ Express/ Nestjs/ Solidjs/ Qwik/ Astro/ Mongodb/ Firebase/ Supabase/ Dynamodb/ Postgres/ Tensorflow/ Vite/ Nuxtjs/ Nextjs
@@ -23,9 +21,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Python/ Django/ Laravel/ Node/ Express
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phenomfvr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phenomfvr&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=phenomfvr)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phenomfvr&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/phenomfvr)  
 
