@@ -27,4 +27,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Python/ Django/ Laravel/ Node/ Express
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=phenomfvr)  
 
-![Profile views](https://gpvc.arturio.dev/phenomfvr)  
