@@ -1,3 +1,3 @@
 ### Hi there 👋!
 I'm Timothy from Sierra Leone, and I am a Software Engineer and Designer with a bit of a dabble in Digital Marketer (😄 Jack of all Trades huh). I really enjoy doing Full Stack Web and Mobile Development, AI, 3D, AR/VR etc. For the Web, I love Vue-js it's my Number One(1) frontend framework, also like Solid.js, Qwik, Astro and last and the least(lol joking) good old React.I am more of a frontend or design person as I do UI/UX, Graphic design, 3D design and learning Product Design too, I do Backend as well too.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phenomfvr)](https://github.com/anuraghazra/github-readme-stats)
