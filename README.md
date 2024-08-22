@@ -1,13 +1,13 @@
 ### Hi there 👋,  I'm Timothy !
 #### Design and Development
-I'm Timothy from Sierra Leone, and I am a Software Engineer and Designer with a bit of a dabble in Digital Marketing (😄 Jack of all Trades huh). I really enjoy doing Full Stack Web and Mobile Development, AI, 3D, AR/VR etc. For the Web, I love Vue-js it's my Number One(1) frontend framework, also like Solid.js, Qwik, Astro and last and the least(lol joking) good old React.I am more of a frontend or design person as I do UI/UX, Graphic design, 3D design and learning Product Design too, I do Backend as well too.
+I'm Tim, and I am a Software Engineer and Designer with a bit of a dabble in Digital Marketing (😄 Jack of all Trades huh). I really enjoy doing Full Stack Web and Mobile Development, AI, 3D, AR/VR etc. For the Web, I love Vue-js it's my Number One(1) frontend framework, also like Solid.js, Qwik, Astro and last and the least(lol joking) good old React.I am more of a backend person but I can do UI/UX, Learning Rust currently and also Web3.
 
 Skills: VUE JS / REACT / JS / HTML / CSS/ Python/ Django/ Laravel/ Node/ Express/ Nestjs/ Solidjs/ Qwik/ Astro/ Mongodb/ Firebase/ Supabase/ Dynamodb/ Postgres/ Tensorflow/ Vite/ Nuxtjs/ Nextjs
 
 - 🔭 I’m currently working on Kekuda (AI) My very own Jarvis 😄. 
-- 🌱 I’m currently learning React Native. 
-- 👯 I’m looking to collaborate on AI, UI/UX, Mojo, Game development. 
-- 🤔 I’m looking for help with Discrete Maths ( Guess it ain't my strongsuit) 
+- 🌱 I’m currently learning Rust. 
+- 👯 I’m looking to collaborate on AI, web3, Mojo, Game development. 
+- 🤔 I’m looking for help with Discrete Maths. 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: kingphenom505@gmail.com  
 - ⚡ Fun fact: Everything's a Drag! 
